@@ -37,7 +37,11 @@ h1 {
 
 
 /* Insert CSS for mouth below this line*/
-
+#mouth_image {
+  position: absolute;
+  top:195px;
+  left:116px;
+}
 
 
 
