@@ -65,10 +65,12 @@ h1 {
 
 
 /* Insert CSS for hat below this line*/
+#hatflower {
+  position:absolute;
+  top: 20px;
+  left: 100px;
 
-
-
-
+}
 /* Insert CSS for arms below this line*/
 
 
