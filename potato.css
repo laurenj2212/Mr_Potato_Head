@@ -22,7 +22,15 @@ h1 {
   top: 28px; left: 68px; 
 }
 /* Insert CSS for arms below this line*/
-
+#nose_image { 
+  position: absolute;
+  top: 150px;
+  left: 130px;
+}
+#arms_image {
+  top:148px;
+  left:px;
+}
 
 
 
@@ -40,7 +48,11 @@ h1 {
 
 
 /* Insert CSS for mouth below this line*/
-
+#mouth_image {
+  position: absolute;
+  top:195px;
+  left:116px;
+}
 
 
 
@@ -60,10 +72,12 @@ h1 {
 
 
 /* Insert CSS for hat below this line*/
+#hatflower {
+  position:absolute;
+  top: 20px;
+  left: 100px;
 
-
-
-
+}
 /* Insert CSS for arms below this line*/
 
 
